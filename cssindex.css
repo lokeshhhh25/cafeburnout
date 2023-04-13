@@ -1,0 +1,57 @@
+body{
+    background-color: beige;
+}
+#head{
+    background-color: #000;
+}
+.fonthead{
+    text-transform: uppercase;
+    color: lightgoldenrodyellow;
+}
+
+h1,h2,h3{
+    font-style: italic;
+    
+    font-weight: bolder;
+    line-height: 3 rem;
+}
+.nav-link{
+    margin: 1em;
+    padding-left: 1em;
+}
+#headinfor{
+    padding: 10% 5%;
+}
+box-img{
+    
+}
+#features{
+    margin: 10% 10%;
+
+}
+.box{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.box p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.box-img{
+    margin-bottom:10px;
+
+}
+#features .box:hover{
+    box-shadow: 0px 0px 10px 5px grey;
+    cursor:pointer;
+    background-color:cornsilk;
+}
+#footer .box{
+    text-align: center;
+    margin-top: 10px;
+}
+#footer{
+   color: azure;
+   background-color: dimgrey;
+   margin-top: 20px 20px;
+}
